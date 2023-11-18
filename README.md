@@ -9,9 +9,9 @@ Imagine a treasure trove of data about vehicle accidents just waiting to be expl
 
 #### The Roadmap:
 In this repository, you'll find:
-- **SQL Scripts:** 
-- **Exploratory Data Analysis (EDA):** 
-- **Datasets:** 
+- **SQL Scripts** 
+- **Exploratory Data Analysis (EDA)** 
+- **Datasets** 
 
 
 #### Let's Connect:
